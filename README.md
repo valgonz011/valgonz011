@@ -13,7 +13,7 @@ I love discovering patterns in data, telling stories with visuals, and learning 
 
 ---
 
-#### 🔍 Currently Learning
+#### 🔍 Currently learning
 
 <div style="display: flex; flex-wrap: wrap; gap: 5px">
 
@@ -47,7 +47,7 @@ I love discovering patterns in data, telling stories with visuals, and learning 
 
 ---
 
-#### 🗣️ Languages I Speak
+#### 🗣️ Speaking
 
 <div style="display: flex; flex-wrap: wrap; gap: 3px">
 
