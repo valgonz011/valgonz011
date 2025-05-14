@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi! I'm Val 🌹
 
-<!--
-**valgonz011/valgonz011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! 🦑🦀
+I'm a BI & Data Analyst from **Chile** 🇨🇱, currently living in **Berlin** 🇩🇪.
+🔭 I’m currently learning:
+- SQL
+- Python🐍
+- Pandas 🐼
+- Tableau
 
-Here are some ideas to get you started:
+🗣️ Speaking:
+- Spanish
+- English
+- German
+- Some Greek
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in:
+- Data Analytics 📊
+- Business Intelligence 📐
+- Mining Engineering 👷‍♀️
+- Learning new languages 🌐
+- Travelling ✈️
+- Food :) 🍝🍜🍣🌭
+
